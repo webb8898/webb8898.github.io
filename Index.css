@@ -27,6 +27,13 @@ li {
     .container{
         background-color: crimson;
         width:750px;
-        height:250px;
+        height:175px;
         color:white;
+        text-align:center;
+    }
+    .info{
+        width:auto;
+        height:auto;
+        border: 3px solid black;
+        color:black;
     }
