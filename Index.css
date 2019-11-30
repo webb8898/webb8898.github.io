@@ -40,7 +40,7 @@ li {
     float: left;
     text-decoration:none;
 }
-        .info :hover{
+        .info:hover{
             background-color:lightgray;
         }
 .info2 {
