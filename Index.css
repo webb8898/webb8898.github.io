@@ -26,23 +26,21 @@ li {
 
     .container{
         background-color: crimson;
-        width:812px;
+        width:817px;
         height:270px;
         color:white;
         text-align:center;
     }
-    .info{
-        
-        width:400px;
-        height:250px;
-        border: 3px solid black;
-        color:black;
-       
-        float:left;
-        
-    }
-        .info p:hover{
-            background-color:crimson;
+.info {
+    width: 400px;
+    height: 250px;
+    border: 3px solid black;
+    color: black;
+    margin-top: 5px;
+    float: left;
+}
+        .info :hover{
+            background-color:lightgray;
         }
 .info2 {
     width: 400px;
@@ -51,6 +49,12 @@ li {
     color: black;
     display:inline-block;
     float:left;
+    margin-left:5px;
+    margin-top:5px;
     
 
 }
+
+    .info2:hover{
+        background-color:lightgray;
+    }
