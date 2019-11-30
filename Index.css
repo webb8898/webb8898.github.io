@@ -26,8 +26,8 @@ li {
 
     .container{
         background-color: crimson;
-        width:800px;
-        height:250px;
+        width:812px;
+        height:270px;
         color:white;
         text-align:center;
     }
@@ -41,8 +41,8 @@ li {
         float:left;
         
     }
-        .info:hover{
-            background-color:lightgray;
+        .info p:hover{
+            background-color:crimson;
         }
 .info2 {
     width: 400px;
