@@ -32,9 +32,19 @@ li {
         text-align:center;
     }
     .info{
-        margin:10px;
+        
         width:500px;
-        height:250px;
+        height:200px;
         border: 3px solid black;
         color:black;
+        text-align:center;
+        display: inline-block;
     }
+.info2 {
+    width: 500px;
+    height: 200px;
+    border: 3px solid black;
+    color: black;
+    display:inline-block;
+
+}
